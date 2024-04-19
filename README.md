@@ -1,4 +1,4 @@
-# Snake by Akash [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Snake Game by Akash [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 This Snake Game Is Made Using the latest version of Python 3.12 & Pygame Module.
 Hope You Will Like The Game.. and also u can use the code to make your own version of game.
 
